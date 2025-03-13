@@ -1,0 +1,17 @@
+[
+    {
+        "icon":"FaLocationPin",
+        "title":"Location",
+        "details":"West Bengal, India"
+    },
+    {
+        "icon":"IoCallSharp",
+        "title":"Call",
+        "details":"+91 1234567890"
+    },
+    {
+        "icon":"IoIosMail",
+        "title":"Email",
+        "details":"rohitsingh121121@gmail.com"
+    }
+]
