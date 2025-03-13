@@ -41,7 +41,7 @@ function Footer() {
             <li><NavLink to="/">Home</NavLink></li>
             <li><NavLink to="/contact">Contact</NavLink></li>
             <li><NavLink target='blank' to="https://www.instagram.com/rohit_singh_ashish?igsh=MW15YXR1aGxsOXdjZg==">Social</NavLink></li>
-            <li><NavLink to="/">Source Code</NavLink></li>
+            <li><NavLink to="https://github.com/Rohit-Kr-Singh-Developer/WorldAtlas.git">Source Code</NavLink></li>
           </ul>
         </div>
       </div>
