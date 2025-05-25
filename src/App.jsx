@@ -8,6 +8,7 @@ import Applayout from './components/Applayout'
 import ErrorPage from './components/ErrorPage'
 import './App.css'
 import CountryDetails from './pages/CountryDetails'
+import Currencies from './pages/Currencies'
 
 
 
@@ -27,11 +28,15 @@ function App() {
           element: <About/>
         },
         {
-          path:'/Country',
+          path:'/currencies',
+          element: <Currencies/>
+        },
+        {
+          path:'/country',
           element: <Country/>
         },
         {
-          path:'/Country/:id',
+          path:'/country/:id',
           element: <CountryDetails />
         },
         {
